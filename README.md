@@ -1,2 +1,1 @@
-# PreCurso
-primer repositorio del modulo2
+Este es un proyecto de pueba para aprender
